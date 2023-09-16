@@ -1,4 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
 body {
   margin: 0;
 }
 
+* {
+  --tw-bg-opacity: 1;
+  background-color: rgb(244 244 245 / var(--tw-bg-opacity));
+  /* font-family: 'Grape Nuts'; */
+}

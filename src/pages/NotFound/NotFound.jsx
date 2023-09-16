@@ -1,11 +1,11 @@
 import Layout from "../../components/Layout/Layout";
 
-const Projects = () => {
+const NotFound = () => {
     return (
         <Layout>
-            Projects
+            NotFound
         </Layout>
     );
 }
 
-export default Projects;
+export default NotFound;
